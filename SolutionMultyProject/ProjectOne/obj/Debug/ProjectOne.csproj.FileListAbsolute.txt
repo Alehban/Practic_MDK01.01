@@ -1,0 +1,7 @@
+D:\ИС-23\SolutionMultyProject\ProjectOne\bin\Debug\ProjectOne.exe.config
+D:\ИС-23\SolutionMultyProject\ProjectOne\bin\Debug\ProjectOne.exe
+D:\ИС-23\SolutionMultyProject\ProjectOne\bin\Debug\ProjectOne.pdb
+D:\ИС-23\SolutionMultyProject\ProjectOne\obj\Debug\ProjectOne.csproj.AssemblyReference.cache
+D:\ИС-23\SolutionMultyProject\ProjectOne\obj\Debug\ProjectOne.csproj.CoreCompileInputs.cache
+D:\ИС-23\SolutionMultyProject\ProjectOne\obj\Debug\ProjectOne.exe
+D:\ИС-23\SolutionMultyProject\ProjectOne\obj\Debug\ProjectOne.pdb

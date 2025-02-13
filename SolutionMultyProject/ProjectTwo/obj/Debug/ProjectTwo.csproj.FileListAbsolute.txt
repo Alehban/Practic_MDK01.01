@@ -1,0 +1,10 @@
+D:\ИС-23\SolutionMultyProject\ProjectTwo\bin\Debug\ProjectTwo.exe.config
+D:\ИС-23\SolutionMultyProject\ProjectTwo\bin\Debug\ProjectTwo.exe
+D:\ИС-23\SolutionMultyProject\ProjectTwo\bin\Debug\ProjectTwo.pdb
+D:\ИС-23\SolutionMultyProject\ProjectTwo\obj\Debug\ProjectTwo.csproj.AssemblyReference.cache
+D:\ИС-23\SolutionMultyProject\ProjectTwo\obj\Debug\ProjectTwo.Form1.resources
+D:\ИС-23\SolutionMultyProject\ProjectTwo\obj\Debug\ProjectTwo.Properties.Resources.resources
+D:\ИС-23\SolutionMultyProject\ProjectTwo\obj\Debug\ProjectTwo.csproj.GenerateResource.cache
+D:\ИС-23\SolutionMultyProject\ProjectTwo\obj\Debug\ProjectTwo.csproj.CoreCompileInputs.cache
+D:\ИС-23\SolutionMultyProject\ProjectTwo\obj\Debug\ProjectTwo.exe
+D:\ИС-23\SolutionMultyProject\ProjectTwo\obj\Debug\ProjectTwo.pdb

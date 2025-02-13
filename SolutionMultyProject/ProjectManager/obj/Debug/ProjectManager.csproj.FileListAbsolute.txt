@@ -1,0 +1,17 @@
+D:\ИС-23\SolutionMultyProject\ProjectManager\bin\Debug\ProjectManager.exe.config
+D:\ИС-23\SolutionMultyProject\ProjectManager\bin\Debug\ProjectManager.exe
+D:\ИС-23\SolutionMultyProject\ProjectManager\bin\Debug\ProjectManager.pdb
+D:\ИС-23\SolutionMultyProject\ProjectManager\bin\Debug\ProjectOne.exe
+D:\ИС-23\SolutionMultyProject\ProjectManager\bin\Debug\ProjectTwo.exe
+D:\ИС-23\SolutionMultyProject\ProjectManager\bin\Debug\ProjectOne.pdb
+D:\ИС-23\SolutionMultyProject\ProjectManager\bin\Debug\ProjectOne.exe.config
+D:\ИС-23\SolutionMultyProject\ProjectManager\bin\Debug\ProjectTwo.pdb
+D:\ИС-23\SolutionMultyProject\ProjectManager\bin\Debug\ProjectTwo.exe.config
+D:\ИС-23\SolutionMultyProject\ProjectManager\obj\Debug\ProjectManager.csproj.AssemblyReference.cache
+D:\ИС-23\SolutionMultyProject\ProjectManager\obj\Debug\ProjectManager.Form1.resources
+D:\ИС-23\SolutionMultyProject\ProjectManager\obj\Debug\ProjectManager.Properties.Resources.resources
+D:\ИС-23\SolutionMultyProject\ProjectManager\obj\Debug\ProjectManager.csproj.GenerateResource.cache
+D:\ИС-23\SolutionMultyProject\ProjectManager\obj\Debug\ProjectManager.csproj.CoreCompileInputs.cache
+D:\ИС-23\SolutionMultyProject\ProjectManager\obj\Debug\ProjectManager.csproj.CopyComplete
+D:\ИС-23\SolutionMultyProject\ProjectManager\obj\Debug\ProjectManager.exe
+D:\ИС-23\SolutionMultyProject\ProjectManager\obj\Debug\ProjectManager.pdb
